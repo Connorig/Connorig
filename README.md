@@ -37,16 +37,11 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 <br>
 <br>
-[![Twitter: homelanderDona1](https://img.shields.io/twitter/follow/homelanderDona1?style=social)](https://x.com/homelanderDona1)
+[![Twitter: homelanderDona1]()](https://x.com/homelanderDona1)
 <br>
 [![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
 <br>
 [![Personal Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cloudbyte.top/)](https://cloudbyte.top/)
-
-<!-- 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
- <a href="https://scholar.google.com/citations?user=gCoWdkUAAAAJ"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
--->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
