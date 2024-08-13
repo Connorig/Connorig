@@ -11,8 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
--->
-
 
 - <p> 
   <a href="https://github.com/zhanghang1989?tab=followers"> <img src="https://img.shields.io/github/followers/zhanghang1989?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
@@ -24,6 +22,10 @@ Here are some ideas to get you started:
   <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
 </p> 
 
+-->
+
+
+
 <h2> Hi, I'm Chinese Connor! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F5NzBuY21qaDAzdGFmNWQ4dXVpcGFheW9mYnlhZXo2cjY0c2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tk0oCeWpf0kITRK/giphy.webp" width="100"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -34,9 +36,11 @@ Here are some ideas to get you started:
 </em></p>
 
 📫 How to reach me: 
+<br>
 [![Twitter: homelanderDona1](https://img.shields.io/twitter/follow/homelanderDona1?style=social)](https://x.com/homelanderDona1)
+<br>
 [![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
-[![Google Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
+
 
 
 
