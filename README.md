@@ -10,8 +10,6 @@
 Here are some ideas to get you started:
 -->
 
-
-
 <h2> Hi guys 👋, I'm Chinese Connor! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F5NzBuY21qaDAzdGFmNWQ4dXVpcGFheW9mYnlhZXo2cjY0c2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tk0oCeWpf0kITRK/giphy.webp" width="100"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 [![Twitter: homelanderDona1](https://img.shields.io/twitter/follow/homelanderDona1?style=social)](https://twitter.com/homelanderDona1)
 <br>
-[![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
+[![GitHub Connorig]](https://github.com/Connorig)
 <br>
 [![Personal Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cloudbyte.top/)](https://cloudbyte.top/)
 
