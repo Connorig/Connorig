@@ -38,6 +38,26 @@ const ConnorJunior = {
   architecture: ["Web", "BS", "microservices", "event-driven", "design system pattern"],
   challenge: "🌱 I’m currently learning the most interesting challenge focused on 3D view model on three.JS and oimo.JS"
 }
+
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Go", "Python", "Javascript", "SQL"],
+    askMeAbout: ["web dev", "tech", "app dev", "playing game"],
+    technologies: {
+        backEnd: {
+            Java: ["SpringBoot", "SpringCloud"],
+            Go: ["Iris", "Gorm", "beego","go-Zero"],
+        },
+        mobileApp: {
+            native: ["wechat mini program","APP H5"]
+        },
+        devOps: ["Alibaba ECS", "Docker🐳", "Docker-compose🐙", "K83", "K3s", "Rancher2.x" "Nginx"],
+        databases: ["PostgreSQL", "MySql", "mongoDB",  ]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "not figure out yet 🤔",
+    funFact: "How often people swear during code reading is the only measure of code quality.🔪"
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
