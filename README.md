@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Connorig/Connorig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> Hi, I'm Chinese Connor! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F5NzBuY21qaDAzdGFmNWQ4dXVpcGFheW9mYnlhZXo2cjY0c2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tk0oCeWpf0kITRK/giphy.webp" width="100"></h2>
+<h2> Hi guys 👋, I'm Chinese Connor! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F5NzBuY21qaDAzdGFmNWQ4dXVpcGFheW9mYnlhZXo2cjY0c2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tk0oCeWpf0kITRK/giphy.webp" width="100"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="javascript:void(0)">University of Shangqiu</a>
