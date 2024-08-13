@@ -5,22 +5,9 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
-
-- <p> 
-  <a href="https://github.com/zhanghang1989?tab=followers"> <img src="https://img.shields.io/github/followers/zhanghang1989?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
-  <a href="https://hangzhang.org/"> <img src="https://img.shields.io/badge/&#8459-homepage-3875B7.svg?labelColor=21438A&style=plastic" height="25px" alt="Hang Zhang">
- 
-  <a href="mailto:zhang.hang@rutgers.edu"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
-  <a href="https://www.linkedin.com/in/zhanghang0704/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
-  <a href="https://www.zhihu.com/people/zhanghang0704"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
-  <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
-</p> 
-
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
 -->
 
 
@@ -37,7 +24,7 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 <br>
 <br>
-[![Twitter: homelanderDona1](https://x.com/homelanderDona1)](https://x.com/homelanderDona1)
+[![Twitter: homelanderDona1](https://img.shields.io/twitter/follow/homelanderDona1?style=social)](https://twitter.com/homelanderDona1)
 <br>
 [![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
 <br>
