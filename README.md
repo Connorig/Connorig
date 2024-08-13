@@ -31,15 +31,8 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ConnorJunior = {
-  pronouns: "he" | "him",
-  code: [Java, Go, Python, SQL, Javascript, Vue],
-  tools: [IDEA, Docker],
-  architecture: ["Web", "BS", "microservices", "event-driven", "design system pattern"],
-  challenge: "🌱 I’m currently learning the most interesting challenge focused on 3D view model on three.JS and oimo.JS"
-}
-
-const anmol = {
+// ceated a Object
+const Connor = {
     pronouns: "He" | "Him",
     code: ["Java", "Go", "Python", "Javascript", "SQL"],
     askMeAbout: ["web dev", "tech", "app dev", "playing game"],
@@ -55,7 +48,7 @@ const anmol = {
         databases: ["PostgreSQL", "MySql", "mongoDB",  ]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "not figure out yet 🤔",
+    currentFocus: "🌱 I’m currently learning the most interesting challenge focused on 3D view model on three.JS and oimo.JS",
     funFact: "How often people swear during code reading is the only measure of code quality.🔪"
 };
 ```
