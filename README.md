@@ -2,18 +2,18 @@
 
 <!--
 **Connorig/Connorig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Here are some ideas to get you started:
+-->
 
+- 📫 How to reach me: connor-g@qq.com
 
 <h2> Hi, I'm Chinese Connor! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F5NzBuY21qaDAzdGFmNWQ4dXVpcGFheW9mYnlhZXo2cjY0c2p2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tk0oCeWpf0kITRK/giphy.webp" width="100"></h2>
 
@@ -34,17 +34,12 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const ConnorJunior = {
+  pronouns: "he" | "him",
+  code: [Java, Go, Python, SQL, Javascript, Vue],
+  tools: [IDEA, Docker],
+  architecture: ["Web", "BS", "microservices", "event-driven", "design system pattern"],
+  challenge: "🌱 I’m currently learning the most interesting challenge focused on 3D view model on three.JS and oimo.JS"
 }
 ```
 
