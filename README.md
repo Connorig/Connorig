@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 </em></p>
 
 📫 How to reach me: 
+[![Twitter: homelanderDona1](https://img.shields.io/twitter/follow/homelanderDona1?style=social)](https://x.com/homelanderDona1)
+[![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
+[![Google Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
 
 
- <a href="https://scholar.google.com/citations?user=gCoWdkUAAAAJ"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
 
 <!-- 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/homelanderDona1?style=social)](https://x.com/homelanderDona1)
-[![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
-[![Google Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
+ <a href="https://scholar.google.com/citations?user=gCoWdkUAAAAJ"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
 
 -->
 
