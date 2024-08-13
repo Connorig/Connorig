@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 <br>
 <br>
-[![Twitter: homelanderDona1]()](https://x.com/homelanderDona1)
+[![Twitter: homelanderDona1](https://x.com/homelanderDona1)]()
 <br>
 [![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
 <br>
