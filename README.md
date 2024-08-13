@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 [![Twitter: homelanderDona1](https://img.shields.io/twitter/follow/homelanderDona1?style=social)](https://twitter.com/homelanderDona1)
 <br>
-[![GitHub Connorig](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Connorig)
+[![GitHub Connorig](https://img.shields.io/github/followers/Connorig?label=follow&style=social)](https://github.com/Connorig)
 <br>
 [![Personal Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://cloudbyte.top/)](https://cloudbyte.top/)
 
